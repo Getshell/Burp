@@ -1,5 +1,5 @@
 # BurpSuite
-抓包神器BurpSuite及其插件！
+神器BurpSuite及其插件！
 
 - https://github.com/topics/burpsuite
 - https://github.com/ScriptKid-Beta/Unexpected_information
@@ -18,3 +18,14 @@
 - https://github.com/metaStor/SpringScan
 - https://github.com/F6JO/RouteVulScan
 - https://github.com/aress31/burpgpt
+- https://github.com/gh0stkey/HaE
+- https://github.com/bit4woo/burp-api-drops
+- https://github.com/Mr-xn/BurpSuite-collections
+- https://github.com/pmiaowu/BurpShiroPassiveScan
+- https://github.com/pmiaowu/BurpFastJsonScan
+- https://github.com/0x727/BypassPro
+- https://github.com/mostwantedduck/BurpLog4j2Scan
+- https://github.com/shuanx/BurpFingerPrint
+- https://github.com/vaycore/OneScan
+- https://github.com/F6JO/RouteVulScan
+- https://github.com/p0desta/AutoBypass403-BurpSuite
