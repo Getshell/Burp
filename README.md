@@ -29,3 +29,4 @@
 - https://github.com/vaycore/OneScan
 - https://github.com/F6JO/RouteVulScan
 - https://github.com/p0desta/AutoBypass403-BurpSuite
+- https://github.com/Tsojan/TsojanScan
